@@ -1,4 +1,4 @@
-$primary_color: #aaa;
+$primary_color: #908a8a;
 
 body {
   background-color: $primary_color;
@@ -9,11 +9,13 @@ body {
 }
 
 a {
-  color: #0000FF;
+  color: #440c0c;
   img {
     border: none;
   }
 }
+a:visited { color: #544848;}
+
 
 .clear {
   clear: both;
